@@ -1,2 +1,2 @@
 # Relaxy
-VR mediation app created at the 5c Hackathon
+VR meditation app created at the 5c Hackathon
